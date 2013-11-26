@@ -1,0 +1,28 @@
+[
+{
+	"title": "لوحة المعلومات",
+	"href":"#timeline",
+	"id" :"m1"
+},
+{
+	"title": "المهام",
+	"href":"#tasks",
+	"id":"m2"
+},
+{
+	"title": "مساحات العمل",
+	"href":"#workspace",
+	"id" :"m3",
+	"sub_menu":[{"title" : "إضافة مساحة عمل","href" : "#workspace"}]
+},
+{
+	"title":"البحث",
+	"href" :"#search",
+	"id" : "m4"
+},
+{
+	"title":"الاعدادات",
+	"href" :"#settings",
+	"id" : "m5"
+}
+]
